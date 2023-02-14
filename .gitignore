@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!*.py
+!*.txt
+!*.md
+!*.sh
+!images
+!images/*
+
+openimage_id.txt
